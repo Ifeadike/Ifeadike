@@ -4,7 +4,8 @@
   </head>
   <body>
     <div class="compute">
-      <form>
+      <form ="calculator">
+        <input id="display" type="text" name="answer">
       </form>
     </div>
   </body>
